@@ -603,6 +603,36 @@ _Conclusion_
 Data sharing can be transformative for the field of science and therefore there is growing interest in it. More funders are requesting for data to be shared. However, the shift will not be impactful, if others cannot use your data. The provided tips in this article should improve your data and make it more usable for others. The authors also emphasize that these tips are also just general better data practices. These tips can be implemented at any point in the project, but its best to start using them at the start.
 
 
+## White, E.P., Baldridge, E., Brym, Z.T., Locey, K.J., McGlinn, D.J., & Supp, S.R. (2013). "Nine Simple Ways to Make it Easier to (Re)Use Your Data." *Ideas in Ecology and Evolution*, 6(2), 1-10.
+
+### Audience
+Researchers creating datasets, specifically targeting ecologists and evolutionary biologists, though the principles may apply broadly across scientific disciplines.
+
+### Purpose
+To provide practical advice on enhancing the shareability and usability of research data, thereby fostering scientific collaboration and innovation.
+
+### Key Concepts
+- **Data Sharing**: Recognized as crucial for enabling replication of results and furthering research by facilitating new analyses on existing data.
+- **Metadata**: Essential for understanding and utilizing data, described as data about data, which includes how data was collected, data unit measurements, and usage instructions.
+- **Reproducibility and Replicability**: Although not defined in the article, these principles are implicitly advocated through recommended data management practices.
+
+### Summary of Recommendations
+1. **Share Your Data**: Emphasizes overcoming the reluctance to share data due to fears of competition or unrecognized effort. Sharing data contributes to the scientific community by enabling validation and further analysis, thus extending the research's impact.
+2. **Provide Detailed Metadata**: Critical for ensuring that datasets can be used effectively by others. Metadata should comprehensively describe the data collection, scope, and any issues or limitations of the dataset.
+3. **Maintain Data in Unprocessed Forms**: Offers both raw and processed data to provide flexibility for future use, allowing researchers to apply different analytical methods or reproduce original analyses.
+4. **Adopt Standard Data Formats**: Advocates for using non-proprietary, widely compatible formats to ensure that data can be easily accessed and used by various software programs. This includes recommendations on file naming and structure to prevent data corruption.
+5. **Implement Effective Data Management**: Suggests using good null values to indicate missing data clearly and prevent misinterpretation during analysis. Also advises on organizing data to facilitate integration with other datasets.
+6. **Perform Basic Quality Control**: Before sharing data, conduct sanity checks to ensure accuracy and consistency, enhancing the dataset's reliability.
+7. **Utilize Established Data Repositories**: Encourages depositing data in recognized repositories to ensure longevity and accessibility, making it easier for other researchers to find and use the data.
+8. **License Data Appropriately**: Recommends using open licenses to clarify usage rights and responsibilities, promoting broader data use without extensive legal barriers.
+
+### Conclusion
+The paper concludes that while data sharing is becoming a norm, the true potential of shared data can only be realized if it is easily usable by others. The authors' tips aim to improve how data is prepared, shared, and managed, ensuring that it contributes effectively to the scientific community.
+
+### Practical Implications
+These guidelines are intended to foster a culture of openness and efficiency in scientific research, ultimately leading to more robust scientific findings and increased collaboration within and across disciplines.
+
+
 ## Libes, D. (1989). Choosing a Name for your Computer. Integrated Systems Group, National Institute of Standards and Technology, Gaithersburg, MD.
 
 **Key Words:**
